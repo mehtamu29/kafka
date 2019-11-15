@@ -1,0 +1,3 @@
+http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html
+https://docs.spring.io/spring-kafka/reference/htmlsingle/#rebalance-listeners
+https://memorynotfound.com/spring-kafka-adding-custom-header-kafka-message-example/
